@@ -24,3 +24,4 @@ Explore the links below to build your system:
 
 * [**🛠️ The Master Tool List**](tools/tool-list.md) - A simple menu of 50 tools to choose from.
 * [**🗺️ Action Roadmaps**](roadmaps/execution-roadmap.md) - Step-by-step plans to set up your system in 7 or 30 days.
+* [**🧱 Core Stacks**](stacks/core-stacks.md) - The best tool combinations for Students, Freelancers, and Creators.
