@@ -26,3 +26,14 @@ Explore the links below to build your system:
 * [**🗺️ Action Roadmaps**](roadmaps/execution-roadmap.md) - Step-by-step plans to set up your system in 7 or 30 days.
 * [**🧱 Core Stacks**](stacks/core-stacks.md) - The best tool combinations for Students, Freelancers, and Creators.
 * [**⏳ 1-Day Setup Guide**](playbooks/1-day-setup.md) - A simple, hour-by-hour guide to building your system this afternoon.
+
+---
+
+## 📖 Daily Playbooks
+
+Choose a guide based on the type of work you need to do:
+
+* [**👔 Professional Workflow**](playbooks/professional-workflow.md) - Save time on emails and busywork.
+* [**🧠 Deep Work System**](playbooks/deep-work-system.md) - Focus and finish hard projects without distractions.
+* [**📚 Learning System**](playbooks/learning-system.md) - Understand new topics in half the time.
+* [**🎨 Content Creation System**](playbooks/content-creation-system.md) - Make posts and videos without getting stuck.
