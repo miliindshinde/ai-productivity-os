@@ -37,3 +37,4 @@ Choose a guide based on the type of work you need to do:
 * [**🧠 Deep Work System**](playbooks/deep-work-system.md) - Focus and finish hard projects without distractions.
 * [**📚 Learning System**](playbooks/learning-system.md) - Understand new topics in half the time.
 * [**🎨 Content Creation System**](playbooks/content-creation-system.md) - Make posts and videos without getting stuck.
+* [**🗺️ Action Roadmaps**](roadmaps/) - Choose between a [7-Day Quick Start](roadmaps/7-day-quick-start.md) or a [30-Day System Building Plan](roadmaps/30-day-system-building.md).
