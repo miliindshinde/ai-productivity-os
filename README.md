@@ -15,3 +15,12 @@ Do not get overwhelmed by the big list of tools. You only need **three tools** t
 1. **The Brain (Thinking):** [Google Gemini](https://gemini.google.com) - Use this to write emails, brainstorm ideas, and answer hard questions fast.
 2. **The Memory (Saving):** [Notion](https://www.notion.so) - Your digital notebook. Use this to save your best AI answers and organize your daily projects.
 3. **The Hands (Connecting):** [Make.com](https://www.make.com) - The robot that connects the first two. Use this to move information automatically (like saving a starred email straight into your Notion notebook).
+
+---
+
+## 📂 System Menu
+
+Explore the links below to build your system:
+
+* [**🛠️ The Master Tool List**](tools/tool-list.md) - A simple menu of 50 tools to choose from.
+* [**🗺️ Action Roadmaps**](roadmaps/execution-roadmap.md) - Step-by-step plans to set up your system in 7 or 30 days.
