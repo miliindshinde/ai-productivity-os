@@ -38,3 +38,34 @@ Choose a guide based on the type of work you need to do:
 * [**📚 Learning System**](playbooks/learning-system.md) - Understand new topics in half the time.
 * [**🎨 Content Creation System**](playbooks/content-creation-system.md) - Make posts and videos without getting stuck.
 * [**🗺️ Action Roadmaps**](roadmaps/) - Choose between a [7-Day Quick Start](roadmaps/7-day-quick-start.md) or a [30-Day System Building Plan](roadmaps/30-day-system-building.md).
+
+---
+
+---
+
+## 🧰 The Tool Library
+
+A deep dive into the best tools available in 2026. Each guide includes pricing, use cases, and how to get started.
+
+### 🧠 AI Brains (Thinking & Writing)
+* [**🤖 Google Gemini**](tools/google-gemini.md) - The all-in-one brain for Google users.
+
+* [**💬 ChatGPT**](tools/chatgpt.md) - The famous "do-everything" assistant.
+
+* [**✍️ Claude**](tools/claude.md) - The best writer and coder in the world.
+
+* [**🔍 Perplexity**](tools/perplexity.md) - The AI search engine for real facts and links.
+
+* [**📚 NotebookLM**](tools/notebook-lm.md) - Your personal assistant for deep-reading documents.
+
+* [**🕊️ Pi.ai**](tools/pi-ai.md) - The kind and supportive AI companion.
+
+* [**🏢 Microsoft Copilot**](tools/microsoft-copilot.md) - The smart layer inside Word and Excel.
+
+* [**🏴‍☠️ Grok**](tools/grok.md) - Real-time news with a live connection to X.
+
+* [**🤗 Hugging Chat**](tools/hugging-chat.md) - The home of free, open-source AI models.
+
+* [**🏛️ Poe**](tools/poe.md) - The "mega-mall" where you can use every AI in one place.
+
+---
