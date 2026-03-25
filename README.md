@@ -72,8 +72,15 @@ A deep dive into the best tools available in 2026. Each guide includes pricing, 
 ### 🤔 Not Sure Which Tool to Pick?
 * [**Which AI Tool Should I Use?**](tools/which-tool.md) - A quick decision guide for every common task.
 
-### 🗄️ Memory & Automation (The Rest of the Stack)
+### 🗄️ Memory & Organization
 * [**🗒️ Notion**](tools/notion.md) - Your digital notebook for saving AI outputs and organizing projects.
-* [**⚙️ Make.com**](tools/make-com.md) - The automation tool that connects your apps without any coding.
+* [**📊 Airtable**](tools/airtable.md) - The smart spreadsheet for tracking clients, projects, and data.
+
+### ⚙️ Automation
+* [**⚙️ Make.com**](tools/make-com.md) - The visual automation tool that connects your apps without any coding.
+* [**⚡ Zapier**](tools/zapier.md) - The easiest way to connect 7,000+ apps for beginners.
+
+### 🎨 Visuals & Design
+* [**🎨 Canva**](tools/canva.md) - Design anything — social graphics, slides, and more — without being a designer.
 
 ---
