@@ -13,8 +13,8 @@ If you have 1 to 3 hours a day to learn and build real workflows, you are in the
 Do not get overwhelmed by the big list of tools. You only need **three tools** to start getting your time back. You can set this up today in less than 2 hours.
 
 1. **The Brain (Thinking):** [Google Gemini](https://gemini.google.com) - Use this to write emails, brainstorm ideas, and answer hard questions fast.
-2. **The Memory (Saving):** [Notion](https://www.notion.so) - Your digital notebook. Use this to save your best AI answers and organize your daily projects.
-3. **The Hands (Connecting):** [Make.com](https://www.make.com) - The robot that connects the first two. Use this to move information automatically (like saving a starred email straight into your Notion notebook).
+2. **The Memory (Saving):** [Notion](tools/notion.md) - Your digital notebook. Use this to save your best AI answers and organize your daily projects.
+3. **The Hands (Connecting):** [Make.com](tools/make-com.md) - The robot that connects the first two. Use this to move information automatically (like saving a starred email straight into your Notion notebook).
 
 ---
 
@@ -23,7 +23,7 @@ Do not get overwhelmed by the big list of tools. You only need **three tools** t
 Explore the links below to build your system:
 
 * [**🛠️ The Master Tool List**](tools/tool-list.md) - A simple menu of 50 tools to choose from.
-* [**🗺️ Action Roadmaps**](roadmaps/execution-roadmap.md) - Step-by-step plans to set up your system in 7 or 30 days.
+* [**🗺️ Action Roadmaps**](roadmaps/) - Step-by-step plans to set up your system in [7 days](roadmaps/7-day-quick-start.md) or [30 days](roadmaps/30-day-system-building.md).
 * [**🧱 Core Stacks**](stacks/core-stacks.md) - The best tool combinations for Students, Freelancers, and Creators.
 * [**⏳ 1-Day Setup Guide**](playbooks/1-day-setup.md) - A simple, hour-by-hour guide to building your system this afternoon.
 
@@ -38,6 +38,7 @@ Choose a guide based on the type of work you need to do:
 * [**📚 Learning System**](playbooks/learning-system.md) - Understand new topics in half the time.
 * [**🎨 Content Creation System**](playbooks/content-creation-system.md) - Make posts and videos without getting stuck.
 * [**🗺️ Action Roadmaps**](roadmaps/) - Choose between a [7-Day Quick Start](roadmaps/7-day-quick-start.md) or a [30-Day System Building Plan](roadmaps/30-day-system-building.md).
+* [**📋 Prompt Templates**](playbooks/prompt-templates.md) - Ready-to-use prompts for emails, writing, research, and more.
 
 ---
 
@@ -67,5 +68,12 @@ A deep dive into the best tools available in 2026. Each guide includes pricing, 
 * [**🤗 Hugging Chat**](tools/hugging-chat.md) - The home of free, open-source AI models.
 
 * [**🏛️ Poe**](tools/poe.md) - The "mega-mall" where you can use every AI in one place.
+
+### 🤔 Not Sure Which Tool to Pick?
+* [**Which AI Tool Should I Use?**](tools/which-tool.md) - A quick decision guide for every common task.
+
+### 🗄️ Memory & Automation (The Rest of the Stack)
+* [**🗒️ Notion**](tools/notion.md) - Your digital notebook for saving AI outputs and organizing projects.
+* [**⚙️ Make.com**](tools/make-com.md) - The automation tool that connects your apps without any coding.
 
 ---
